@@ -1,0 +1,17 @@
+{
+  "name": "apass-verify-render",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
